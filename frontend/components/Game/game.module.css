@@ -1,0 +1,104 @@
+.card {
+    width:296px;
+    height:396px;
+    background-color: #1C1B22;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.label{
+    background-color: #E30F52;
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 0px 8px 0px 8px;
+    align-self: flex-start;
+    margin: 24px 0px 0px 24px;
+}
+
+.logo{
+    width: 42px;
+    height: 48px;
+    margin-top: 12px;
+}
+
+.info{
+    border: solid 2px #25272e;
+    border-radius: 8px;
+    padding: 4px 12px;
+    font-size: 10px;
+    font-weight: 600;
+    margin-top: 14px;
+}
+
+.title{
+    font-size: 24px;
+    margin-top:16px;
+}
+
+.container {
+    border-radius: 8px;
+    background-color: #25272e;
+    width:80%;
+    padding: 8px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top:16px;
+}
+
+.bodyText1{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bodyText2{
+    font-size: 12px;
+    font-weight: 800;
+    color: #606060;
+}
+
+.star{
+    width:10px;
+    height: 10px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+
+.details{
+    display:flex;
+    flex-direction: row;
+    gap:18px;
+    margin-top: 24px;
+}
+
+.detail{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    border-radius: 0px 0px 12px 12px;
+    background-color:  #25272e;
+    border: none;
+    color: #0BD854;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 14px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: auto;
+    width: 100%;
+}
+
+

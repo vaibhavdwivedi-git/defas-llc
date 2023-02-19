@@ -1,0 +1,3160 @@
+{
+    "typeMatches": [
+      {
+        "matchType": "International",
+        "seriesMatches": [
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5204,
+              "seriesName": "Australia tour of India, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 60023,
+                    "seriesId": 5204,
+                    "seriesName": "Australia tour of India, 2023",
+                    "matchDesc": "3rd Test",
+                    "matchFormat": "TEST",
+                    "startDate": "1677643200000",
+                    "endDate": "1678014000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 2,
+                      "teamName": "India",
+                      "teamSName": "IND",
+                      "imageId": 172115
+                    },
+                    "team2": {
+                      "teamId": 4,
+                      "teamName": "Australia",
+                      "teamSName": "AUS",
+                      "imageId": 172117
+                    },
+                    "venueInfo": {
+                      "id": 152,
+                      "ground": "Holkar Cricket Stadium",
+                      "city": "Indore",
+                      "timezone": "+05:30",
+                      "latitude": "22.724371",
+                      "longitude": "75.879701"
+                    },
+                    "seriesStartDt": "1675900800000",
+                    "seriesEndDt": "1679616000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "adDetail": {
+              "name": "native_matches",
+              "layout": "native_large",
+              "position": 1
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4413,
+              "seriesName": "England tour of New Zealand, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 49563,
+                    "seriesId": 4413,
+                    "seriesName": "England tour of New Zealand, 2023",
+                    "matchDesc": "2nd Test",
+                    "matchFormat": "TEST",
+                    "startDate": "1677189600000",
+                    "endDate": "1677560400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 13,
+                      "teamName": "New Zealand",
+                      "teamSName": "NZ",
+                      "imageId": 172128
+                    },
+                    "team2": {
+                      "teamId": 9,
+                      "teamName": "England",
+                      "teamSName": "ENG",
+                      "imageId": 172123
+                    },
+                    "venueInfo": {
+                      "id": 45,
+                      "ground": "Basin Reserve",
+                      "city": "Wellington",
+                      "timezone": "+13:00",
+                      "latitude": "-41.161720",
+                      "longitude": "175.323914"
+                    },
+                    "seriesStartDt": "1675814400000",
+                    "seriesEndDt": "1677715200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 2834,
+              "seriesName": "ICC Cricket World Cup League Two 2019-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65382,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "5th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1676862900000",
+                    "endDate": "1676891700000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 23,
+                      "teamName": "Scotland",
+                      "teamSName": "SCO",
+                      "imageId": 172137
+                    },
+                    "team2": {
+                      "teamId": 161,
+                      "teamName": "Namibia",
+                      "teamSName": "NAM",
+                      "imageId": 172229
+                    },
+                    "venueInfo": {
+                      "id": 458,
+                      "ground": "Tribhuvan University International Cricket Ground",
+                      "city": "Kirtipur",
+                      "timezone": "+05:45",
+                      "latitude": "27.6768145",
+                      "longitude": "85.287199"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65385,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "6th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1676949300000",
+                    "endDate": "1676978100000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 72,
+                      "teamName": "Nepal",
+                      "teamSName": "NEP",
+                      "imageId": 172169
+                    },
+                    "team2": {
+                      "teamId": 23,
+                      "teamName": "Scotland",
+                      "teamSName": "SCO",
+                      "imageId": 172137
+                    },
+                    "venueInfo": {
+                      "id": 458,
+                      "ground": "Tribhuvan University International Cricket Ground",
+                      "city": "Kirtipur",
+                      "timezone": "+05:45",
+                      "latitude": "27.6768145",
+                      "longitude": "85.287199"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65392,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "1st Match (Rescheduled)",
+                    "matchFormat": "ODI",
+                    "startDate": "1677130200000",
+                    "endDate": "1677159000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 161,
+                      "teamName": "Namibia",
+                      "teamSName": "NAM",
+                      "imageId": 172229
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65396,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "2nd Match (Rescheduled)",
+                    "matchFormat": "ODI",
+                    "startDate": "1677303000000",
+                    "endDate": "1677331800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 161,
+                      "teamName": "Namibia",
+                      "teamSName": "NAM",
+                      "imageId": 172229
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 66092,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "1st Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677475800000",
+                    "endDate": "1677504600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 287,
+                      "teamName": "Papua New Guinea",
+                      "teamSName": "PNG",
+                      "imageId": 172336
+                    },
+                    "team2": {
+                      "teamId": 72,
+                      "teamName": "Nepal",
+                      "teamSName": "NEP",
+                      "imageId": 172169
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 66099,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "2nd Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677562200000",
+                    "endDate": "1677591000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 287,
+                      "teamName": "Papua New Guinea",
+                      "teamSName": "PNG",
+                      "imageId": 172336
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 66106,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "3rd Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677735000000",
+                    "endDate": "1677763800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 72,
+                      "teamName": "Nepal",
+                      "teamSName": "NEP",
+                      "imageId": 172169
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 66113,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "4th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677821400000",
+                    "endDate": "1677850200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 72,
+                      "teamName": "Nepal",
+                      "teamSName": "NEP",
+                      "imageId": 172169
+                    },
+                    "team2": {
+                      "teamId": 287,
+                      "teamName": "Papua New Guinea",
+                      "teamSName": "PNG",
+                      "imageId": 172336
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 66120,
+                    "seriesId": 2834,
+                    "seriesName": "ICC Cricket World Cup League Two 2019-23",
+                    "matchDesc": "5th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677994200000",
+                    "endDate": "1678023000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 287,
+                      "teamName": "Papua New Guinea",
+                      "teamSName": "PNG",
+                      "imageId": 172336
+                    },
+                    "venueInfo": {
+                      "id": 153,
+                      "ground": "Dubai International Cricket Stadium",
+                      "city": "Dubai",
+                      "timezone": "+04:00",
+                      "latitude": "25.046842",
+                      "longitude": "55.218969"
+                    },
+                    "seriesStartDt": "1565740800000",
+                    "seriesEndDt": "1679097600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5276,
+              "seriesName": "England tour of Bangladesh, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 60842,
+                    "seriesId": 5276,
+                    "seriesName": "England tour of Bangladesh, 2023",
+                    "matchDesc": "1st ODI",
+                    "matchFormat": "ODI",
+                    "startDate": "1677659400000",
+                    "endDate": "1677688200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 6,
+                      "teamName": "Bangladesh",
+                      "teamSName": "BAN",
+                      "imageId": 172120
+                    },
+                    "team2": {
+                      "teamId": 9,
+                      "teamName": "England",
+                      "teamSName": "ENG",
+                      "imageId": 172123
+                    },
+                    "venueInfo": {
+                      "id": 128,
+                      "ground": "Shere Bangla National Stadium",
+                      "city": "Dhaka",
+                      "timezone": "+06:00",
+                      "latitude": "23.806966",
+                      "longitude": "90.363576"
+                    },
+                    "seriesStartDt": "1677628800000",
+                    "seriesEndDt": "1678924800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 60849,
+                    "seriesId": 5276,
+                    "seriesName": "England tour of Bangladesh, 2023",
+                    "matchDesc": "2nd ODI",
+                    "matchFormat": "ODI",
+                    "startDate": "1677832200000",
+                    "endDate": "1677861000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 6,
+                      "teamName": "Bangladesh",
+                      "teamSName": "BAN",
+                      "imageId": 172120
+                    },
+                    "team2": {
+                      "teamId": 9,
+                      "teamName": "England",
+                      "teamSName": "ENG",
+                      "imageId": 172123
+                    },
+                    "venueInfo": {
+                      "id": 128,
+                      "ground": "Shere Bangla National Stadium",
+                      "city": "Dhaka",
+                      "timezone": "+06:00",
+                      "latitude": "23.806966",
+                      "longitude": "90.363576"
+                    },
+                    "seriesStartDt": "1677628800000",
+                    "seriesEndDt": "1678924800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4854,
+              "seriesName": "West Indies tour of South Africa, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65781,
+                    "seriesId": 4854,
+                    "seriesName": "West Indies tour of South Africa, 2023",
+                    "matchDesc": "4-day Practice Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1676966400000",
+                    "endDate": "1677250800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 267,
+                      "teamName": "South African Invitation XI",
+                      "teamSName": "RSAIXI",
+                      "imageId": 172320
+                    },
+                    "team2": {
+                      "teamId": 10,
+                      "teamName": "West Indies",
+                      "teamSName": "WI",
+                      "imageId": 172124
+                    },
+                    "venueInfo": {
+                      "id": 135,
+                      "ground": "Willowmoore Park",
+                      "city": "Benoni",
+                      "timezone": "+02:00",
+                      "latitude": "55.430751",
+                      "longitude": "-4.634697"
+                    },
+                    "seriesStartDt": "1676937600000",
+                    "seriesEndDt": "1680134400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56185,
+                    "seriesId": 4854,
+                    "seriesName": "West Indies tour of South Africa, 2023",
+                    "matchDesc": "1st Test",
+                    "matchFormat": "TEST",
+                    "startDate": "1677571200000",
+                    "endDate": "1677942000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 11,
+                      "teamName": "South Africa",
+                      "teamSName": "RSA",
+                      "imageId": 172126
+                    },
+                    "team2": {
+                      "teamId": 10,
+                      "teamName": "West Indies",
+                      "teamSName": "WI",
+                      "imageId": 172124
+                    },
+                    "venueInfo": {
+                      "id": 75,
+                      "ground": "SuperSport Park",
+                      "city": "Centurion",
+                      "timezone": "+02:00",
+                      "latitude": "-25.859938",
+                      "longitude": "28.195531"
+                    },
+                    "seriesStartDt": "1676937600000",
+                    "seriesEndDt": "1680134400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5847,
+              "seriesName": "Isle of Man tour of Spain, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65126,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "1st T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677229200000",
+                    "endDate": "1677241800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65130,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "2nd T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677244500000",
+                    "endDate": "1677257100000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65133,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "3rd T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677315600000",
+                    "endDate": "1677328200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65140,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "4th T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677330900000",
+                    "endDate": "1677343500000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65147,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "5th T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677400200000",
+                    "endDate": "1677412800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65151,
+                    "seriesId": 5847,
+                    "seriesName": "Isle of Man tour of Spain, 2023",
+                    "matchDesc": "6th T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1677415500000",
+                    "endDate": "1677428100000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 523,
+                      "teamName": "Spain",
+                      "teamSName": "SPAIN",
+                      "imageId": 248450
+                    },
+                    "team2": {
+                      "teamId": 557,
+                      "teamName": "Isle of Man",
+                      "teamSName": "IOM",
+                      "imageId": 172609
+                    },
+                    "venueInfo": {
+                      "id": 554,
+                      "ground": "La Manga Club Bottom Ground",
+                      "city": "Cartagena, Murcia",
+                      "timezone": "+02:00",
+                      "latitude": "37.60439",
+                      "longitude": "-0.8049247"
+                    },
+                    "seriesStartDt": "1677196800000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4415,
+              "seriesName": "Sri Lanka tour New Zealand, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65403,
+                    "seriesId": 4415,
+                    "seriesName": "Sri Lanka tour New Zealand, 2023",
+                    "matchDesc": "2-day Warm-up Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677880800000",
+                    "endDate": "1677992400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "team2": {
+                      "teamId": 5,
+                      "teamName": "Sri Lanka",
+                      "teamSName": "SL",
+                      "imageId": 172119
+                    },
+                    "venueInfo": {
+                      "id": 371,
+                      "ground": "Hagley Oval",
+                      "city": "Christchurch",
+                      "timezone": "+13:00",
+                      "latitude": "-43.535831",
+                      "longitude": "172.624863"
+                    },
+                    "seriesStartDt": "1677888000000",
+                    "seriesEndDt": "1681084800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5896,
+              "seriesName": "Afghanistan tour of United Arab Emirates, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65350,
+                    "seriesId": 5896,
+                    "seriesName": "Afghanistan tour of United Arab Emirates, 2023",
+                    "matchDesc": "3rd T20I",
+                    "matchFormat": "T20",
+                    "startDate": "1676815200000",
+                    "endDate": "1676827800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 7,
+                      "teamName": "United Arab Emirates",
+                      "teamSName": "UAE",
+                      "imageId": 172121
+                    },
+                    "team2": {
+                      "teamId": 96,
+                      "teamName": "Afghanistan",
+                      "teamSName": "AFG",
+                      "imageId": 172188
+                    },
+                    "venueInfo": {
+                      "id": 94,
+                      "ground": "Sheikh Zayed Stadium",
+                      "city": "Abu Dhabi",
+                      "timezone": "+04:00",
+                      "latitude": "24.416138",
+                      "longitude": "54.453566"
+                    },
+                    "seriesStartDt": "1676505600000",
+                    "seriesEndDt": "1676937600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "matchType": "League",
+        "seriesMatches": [
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5441,
+              "seriesName": "Pakistan Super League, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 62165,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "7th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1676797200000",
+                    "endDate": "1676809800000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 437,
+                      "teamName": "Multan Sultans",
+                      "teamSName": "MS",
+                      "imageId": 172487
+                    },
+                    "team2": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "venueInfo": {
+                      "id": 22,
+                      "ground": "Multan Cricket Stadium",
+                      "city": "Multan",
+                      "timezone": "+05:00",
+                      "latitude": "30.170782",
+                      "longitude": "71.524727"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62169,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "8th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1676815200000",
+                    "endDate": "1676827800000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 332,
+                      "teamName": "Karachi Kings",
+                      "teamSName": "KRK",
+                      "imageId": 172380
+                    },
+                    "team2": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62172,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "9th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1676901600000",
+                    "endDate": "1676914200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 331,
+                      "teamName": "Quetta Gladiators",
+                      "teamSName": "QTG",
+                      "imageId": 172379
+                    },
+                    "team2": {
+                      "teamId": 334,
+                      "teamName": "Peshawar Zalmi",
+                      "teamSName": "PSZ",
+                      "imageId": 172382
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62179,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "10th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1676988000000",
+                    "endDate": "1677000600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 331,
+                      "teamName": "Quetta Gladiators",
+                      "teamSName": "QTG",
+                      "imageId": 172379
+                    },
+                    "team2": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62183,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "11th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677070800000",
+                    "endDate": "1677083400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 437,
+                      "teamName": "Multan Sultans",
+                      "teamSName": "MS",
+                      "imageId": 172487
+                    },
+                    "team2": {
+                      "teamId": 332,
+                      "teamName": "Karachi Kings",
+                      "teamSName": "KRK",
+                      "imageId": 172380
+                    },
+                    "venueInfo": {
+                      "id": 22,
+                      "ground": "Multan Cricket Stadium",
+                      "city": "Multan",
+                      "timezone": "+05:00",
+                      "latitude": "30.170782",
+                      "longitude": "71.524727"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62186,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "12th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677160800000",
+                    "endDate": "1677173400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 334,
+                      "teamName": "Peshawar Zalmi",
+                      "teamSName": "PSZ",
+                      "imageId": 172382
+                    },
+                    "team2": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62190,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "13th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677247200000",
+                    "endDate": "1677259800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 331,
+                      "teamName": "Quetta Gladiators",
+                      "teamSName": "QTG",
+                      "imageId": 172379
+                    },
+                    "team2": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62193,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "14th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677402000000",
+                    "endDate": "1677414600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 332,
+                      "teamName": "Karachi Kings",
+                      "teamSName": "KRK",
+                      "imageId": 172380
+                    },
+                    "team2": {
+                      "teamId": 437,
+                      "teamName": "Multan Sultans",
+                      "teamSName": "MS",
+                      "imageId": 172487
+                    },
+                    "venueInfo": {
+                      "id": 24,
+                      "ground": "National Stadium",
+                      "city": "Karachi",
+                      "timezone": "+05:00",
+                      "latitude": "24.892373",
+                      "longitude": "67.086411"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62197,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "15th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677420000000",
+                    "endDate": "1677432600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "team2": {
+                      "teamId": 334,
+                      "teamName": "Peshawar Zalmi",
+                      "teamSName": "PSZ",
+                      "imageId": 172382
+                    },
+                    "venueInfo": {
+                      "id": 26,
+                      "ground": "Gaddafi Stadium",
+                      "city": "Lahore",
+                      "timezone": "+05:00",
+                      "latitude": "31.513467",
+                      "longitude": "74.333375"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62200,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "16th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677506400000",
+                    "endDate": "1677519000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "team2": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "venueInfo": {
+                      "id": 26,
+                      "ground": "Gaddafi Stadium",
+                      "city": "Lahore",
+                      "timezone": "+05:00",
+                      "latitude": "31.513467",
+                      "longitude": "74.333375"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62207,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "17th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677679200000",
+                    "endDate": "1677691800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 334,
+                      "teamName": "Peshawar Zalmi",
+                      "teamSName": "PSZ",
+                      "imageId": 172382
+                    },
+                    "team2": {
+                      "teamId": 332,
+                      "teamName": "Karachi Kings",
+                      "teamSName": "KRK",
+                      "imageId": 172380
+                    },
+                    "venueInfo": {
+                      "id": 245,
+                      "ground": "Pindi Club Ground",
+                      "city": "Rawalpindi",
+                      "timezone": "+05:00",
+                      "latitude": "33.59141",
+                      "longitude": "73.051832"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62211,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "18th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677765600000",
+                    "endDate": "1677778200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "team2": {
+                      "teamId": 331,
+                      "teamName": "Quetta Gladiators",
+                      "teamSName": "QTG",
+                      "imageId": 172379
+                    },
+                    "venueInfo": {
+                      "id": 26,
+                      "ground": "Gaddafi Stadium",
+                      "city": "Lahore",
+                      "timezone": "+05:00",
+                      "latitude": "31.513467",
+                      "longitude": "74.333375"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62218,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "19th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677852000000",
+                    "endDate": "1677864600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "team2": {
+                      "teamId": 332,
+                      "teamName": "Karachi Kings",
+                      "teamSName": "KRK",
+                      "imageId": 172380
+                    },
+                    "venueInfo": {
+                      "id": 245,
+                      "ground": "Pindi Club Ground",
+                      "city": "Rawalpindi",
+                      "timezone": "+05:00",
+                      "latitude": "33.59141",
+                      "longitude": "73.051832"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62225,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "20th Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677938400000",
+                    "endDate": "1677951000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 333,
+                      "teamName": "Lahore Qalandars",
+                      "teamSName": "LHQ",
+                      "imageId": 172381
+                    },
+                    "team2": {
+                      "teamId": 437,
+                      "teamName": "Multan Sultans",
+                      "teamSName": "MS",
+                      "imageId": 172487
+                    },
+                    "venueInfo": {
+                      "id": 26,
+                      "ground": "Gaddafi Stadium",
+                      "city": "Lahore",
+                      "timezone": "+05:00",
+                      "latitude": "31.513467",
+                      "longitude": "74.333375"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 62232,
+                    "seriesId": 5441,
+                    "seriesName": "Pakistan Super League, 2023",
+                    "matchDesc": "21st Match",
+                    "matchFormat": "T20",
+                    "startDate": "1678024800000",
+                    "endDate": "1678037400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 330,
+                      "teamName": "Islamabad United",
+                      "teamSName": "ISU",
+                      "imageId": 172378
+                    },
+                    "team2": {
+                      "teamId": 331,
+                      "teamName": "Quetta Gladiators",
+                      "teamSName": "QTG",
+                      "imageId": 172379
+                    },
+                    "venueInfo": {
+                      "id": 245,
+                      "ground": "Pindi Club Ground",
+                      "city": "Rawalpindi",
+                      "timezone": "+05:00",
+                      "latitude": "33.59141",
+                      "longitude": "73.051832"
+                    },
+                    "seriesStartDt": "1676246400000",
+                    "seriesEndDt": "1679356800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "matchType": "Domestic",
+        "seriesMatches": [
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5500,
+              "seriesName": "Irani Cup 2022-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 62858,
+                    "seriesId": 5500,
+                    "seriesName": "Irani Cup 2022-23",
+                    "matchDesc": "Irani Cup",
+                    "matchFormat": "TEST",
+                    "startDate": "1677643200000",
+                    "endDate": "1678014000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 167,
+                      "teamName": "Madhya Pradesh",
+                      "teamSName": "MP",
+                      "imageId": 172236
+                    },
+                    "team2": {
+                      "teamId": 82,
+                      "teamName": "Rest of India",
+                      "teamSName": "ROI",
+                      "imageId": 172176
+                    },
+                    "venueInfo": {
+                      "ground": "TBC",
+                      "city": "TBC",
+                      "timezone": "+05:30"
+                    },
+                    "seriesStartDt": "1677628800000",
+                    "seriesEndDt": "1678147200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4749,
+              "seriesName": "4-Day Franchise Series 2022-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65410,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1676793600000",
+                    "endDate": "1677078000000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 281,
+                      "teamName": "Knights",
+                      "teamSName": "KNG",
+                      "imageId": 172331
+                    },
+                    "team2": {
+                      "teamId": 90,
+                      "teamName": "Dolphins",
+                      "teamSName": "DOL",
+                      "imageId": 172183
+                    },
+                    "venueInfo": {
+                      "id": 72,
+                      "ground": "Mangaung Oval",
+                      "city": "Bloemfontein",
+                      "timezone": "+02:00",
+                      "latitude": "-29.116752",
+                      "longitude": "26.20519"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65417,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1676793600000",
+                    "endDate": "1677078000000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 922,
+                      "teamName": "North West",
+                      "teamSName": "NWEST",
+                      "imageId": 248439
+                    },
+                    "team2": {
+                      "teamId": 917,
+                      "teamName": "Western Province",
+                      "teamSName": "WPR",
+                      "imageId": 248460
+                    },
+                    "venueInfo": {
+                      "id": 102,
+                      "ground": "Senwes Park",
+                      "city": "Potchefstroom",
+                      "timezone": "+02:00",
+                      "latitude": "-26.695565",
+                      "longitude": "27.100691"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65424,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1676793600000",
+                    "endDate": "1677078000000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 157,
+                      "teamName": "Lions",
+                      "teamSName": "LIONS",
+                      "imageId": 172224
+                    },
+                    "team2": {
+                      "teamId": 155,
+                      "teamName": "Warriors",
+                      "teamSName": "WAR",
+                      "imageId": 172222
+                    },
+                    "venueInfo": {
+                      "id": 88,
+                      "ground": "The Wanderers Stadium",
+                      "city": "Johannesburg",
+                      "timezone": "+02:00",
+                      "latitude": "-26.131141",
+                      "longitude": "28.057397"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65427,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1676793600000",
+                    "endDate": "1677078000000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 89,
+                      "teamName": "Titans",
+                      "teamSName": "TIT",
+                      "imageId": 172182
+                    },
+                    "team2": {
+                      "teamId": 928,
+                      "teamName": "Rocks",
+                      "teamSName": "ROCKS",
+                      "imageId": 248446
+                    },
+                    "venueInfo": {
+                      "id": 367,
+                      "ground": "LC de Villiers Oval",
+                      "city": "Pretoria",
+                      "timezone": "+02:00",
+                      "latitude": "-25.771079",
+                      "longitude": "28.221849"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57382,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677139200000",
+                    "endDate": "1677423600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 923,
+                      "teamName": "Northern Cape",
+                      "teamSName": "NCAPE",
+                      "imageId": 248438
+                    },
+                    "team2": {
+                      "teamId": 933,
+                      "teamName": "Eastern Storm",
+                      "teamSName": "ESTORM",
+                      "imageId": 248407
+                    },
+                    "venueInfo": {
+                      "id": 148,
+                      "ground": "Diamond Oval",
+                      "city": "Kimberley",
+                      "timezone": "+02:00",
+                      "latitude": "-28.742487",
+                      "longitude": "24.742101"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57412,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677139200000",
+                    "endDate": "1677423600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 927,
+                      "teamName": "Eastern Cape",
+                      "teamSName": "ECAPE",
+                      "imageId": 248405
+                    },
+                    "team2": {
+                      "teamId": 918,
+                      "teamName": "Garden Route Badgers",
+                      "teamSName": "GRB",
+                      "imageId": 247396
+                    },
+                    "venueInfo": {
+                      "id": 99,
+                      "ground": "Buffalo Park",
+                      "city": "East London",
+                      "timezone": "+02:00",
+                      "latitude": "-33.006727",
+                      "longitude": "27.919465"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57417,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677139200000",
+                    "endDate": "1677423600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 912,
+                      "teamName": "Limpopo",
+                      "teamSName": "LIMPO",
+                      "imageId": 248430
+                    },
+                    "team2": {
+                      "teamId": 908,
+                      "teamName": "Tuskers",
+                      "teamSName": "TUSKS",
+                      "imageId": 248457
+                    },
+                    "venueInfo": {
+                      "id": 772,
+                      "ground": "Polokwane Cricket Club",
+                      "city": "Polokwane",
+                      "timezone": "+02:00",
+                      "latitude": "-23.912260",
+                      "longitude": "29.453550"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65434,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1677398400000",
+                    "endDate": "1677682800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 90,
+                      "teamName": "Dolphins",
+                      "teamSName": "DOL",
+                      "imageId": 172183
+                    },
+                    "team2": {
+                      "teamId": 89,
+                      "teamName": "Titans",
+                      "teamSName": "TIT",
+                      "imageId": 172182
+                    },
+                    "venueInfo": {
+                      "id": 74,
+                      "ground": "Kingsmead",
+                      "city": "Durban",
+                      "timezone": "+02:00",
+                      "latitude": "-29.850018",
+                      "longitude": "31.027888"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65441,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1677398400000",
+                    "endDate": "1677682800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 157,
+                      "teamName": "Lions",
+                      "teamSName": "LIONS",
+                      "imageId": 172224
+                    },
+                    "team2": {
+                      "teamId": 917,
+                      "teamName": "Western Province",
+                      "teamSName": "WPR",
+                      "imageId": 248460
+                    },
+                    "venueInfo": {
+                      "id": 88,
+                      "ground": "The Wanderers Stadium",
+                      "city": "Johannesburg",
+                      "timezone": "+02:00",
+                      "latitude": "-26.131141",
+                      "longitude": "28.057397"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65448,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1677398400000",
+                    "endDate": "1677682800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 155,
+                      "teamName": "Warriors",
+                      "teamSName": "WAR",
+                      "imageId": 172222
+                    },
+                    "team2": {
+                      "teamId": 281,
+                      "teamName": "Knights",
+                      "teamSName": "KNG",
+                      "imageId": 172331
+                    },
+                    "venueInfo": {
+                      "id": 73,
+                      "ground": "St George's Park",
+                      "city": "Gqeberha",
+                      "timezone": "+02:00",
+                      "latitude": "-33.966545",
+                      "longitude": "25.610332"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57438,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677744000000",
+                    "endDate": "1678028400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 918,
+                      "teamName": "Garden Route Badgers",
+                      "teamSName": "GRB",
+                      "imageId": 247396
+                    },
+                    "team2": {
+                      "teamId": 923,
+                      "teamName": "Northern Cape",
+                      "teamSName": "NCAPE",
+                      "imageId": 248438
+                    },
+                    "venueInfo": {
+                      "id": 468,
+                      "ground": "Recreation Ground",
+                      "city": "Oudtshoorn",
+                      "timezone": "+02:00",
+                      "latitude": "22.1970307",
+                      "longitude": "-33.5934657"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57445,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677744000000",
+                    "endDate": "1678028400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 927,
+                      "teamName": "Eastern Cape",
+                      "teamSName": "ECAPE",
+                      "imageId": 248405
+                    },
+                    "team2": {
+                      "teamId": 912,
+                      "teamName": "Limpopo",
+                      "teamSName": "LIMPO",
+                      "imageId": 248430
+                    },
+                    "venueInfo": {
+                      "id": 99,
+                      "ground": "Buffalo Park",
+                      "city": "East London",
+                      "timezone": "+02:00",
+                      "latitude": "-33.006727",
+                      "longitude": "27.919465"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 57447,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 2",
+                    "matchFormat": "TEST",
+                    "startDate": "1677744000000",
+                    "endDate": "1678028400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 933,
+                      "teamName": "Eastern Storm",
+                      "teamSName": "ESTORM",
+                      "imageId": 248407
+                    },
+                    "team2": {
+                      "teamId": 903,
+                      "teamName": "Mpumalanga Rhinos",
+                      "teamSName": "MPR",
+                      "imageId": 248434
+                    },
+                    "venueInfo": {
+                      "id": 135,
+                      "ground": "Willowmoore Park",
+                      "city": "Benoni",
+                      "timezone": "+02:00",
+                      "latitude": "55.430751",
+                      "longitude": "-4.634697"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65455,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1678003200000",
+                    "endDate": "1678287600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 90,
+                      "teamName": "Dolphins",
+                      "teamSName": "DOL",
+                      "imageId": 172183
+                    },
+                    "team2": {
+                      "teamId": 922,
+                      "teamName": "North West",
+                      "teamSName": "NWEST",
+                      "imageId": 248439
+                    },
+                    "venueInfo": {
+                      "id": 74,
+                      "ground": "Kingsmead",
+                      "city": "Durban",
+                      "timezone": "+02:00",
+                      "latitude": "-29.850018",
+                      "longitude": "31.027888"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65462,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1678003200000",
+                    "endDate": "1678287600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 928,
+                      "teamName": "Rocks",
+                      "teamSName": "ROCKS",
+                      "imageId": 248446
+                    },
+                    "team2": {
+                      "teamId": 157,
+                      "teamName": "Lions",
+                      "teamSName": "LIONS",
+                      "imageId": 172224
+                    },
+                    "venueInfo": {
+                      "id": 207,
+                      "ground": "Boland Park",
+                      "city": "Paarl",
+                      "timezone": "+02:00",
+                      "latitude": "-33.730900",
+                      "longitude": "18.970760"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65469,
+                    "seriesId": 4749,
+                    "seriesName": "4-Day Franchise Series 2022-23",
+                    "matchDesc": "Division 1",
+                    "matchFormat": "TEST",
+                    "startDate": "1678003200000",
+                    "endDate": "1678287600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 155,
+                      "teamName": "Warriors",
+                      "teamSName": "WAR",
+                      "imageId": 172222
+                    },
+                    "team2": {
+                      "teamId": 89,
+                      "teamName": "Titans",
+                      "teamSName": "TIT",
+                      "imageId": 172182
+                    },
+                    "venueInfo": {
+                      "id": 73,
+                      "ground": "St George's Park",
+                      "city": "Gqeberha",
+                      "timezone": "+02:00",
+                      "latitude": "-33.966545",
+                      "longitude": "25.610332"
+                    },
+                    "seriesStartDt": "1666224000000",
+                    "seriesEndDt": "1679011200000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4562,
+              "seriesName": "Plunket Shield 2022-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 51546,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "13th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677274200000",
+                    "endDate": "1677558600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 294,
+                      "teamName": "Northern Knights",
+                      "teamSName": "NK",
+                      "imageId": 172343
+                    },
+                    "team2": {
+                      "teamId": 312,
+                      "teamName": "Canterbury",
+                      "teamSName": "CNTBRY",
+                      "imageId": 172362
+                    },
+                    "venueInfo": {
+                      "id": 100,
+                      "ground": "Seddon Park",
+                      "city": "Hamilton",
+                      "timezone": "+13:00",
+                      "latitude": "-37.786654",
+                      "longitude": "175.266647"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 51551,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "14th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677274200000",
+                    "endDate": "1677558600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 313,
+                      "teamName": "Central Districts",
+                      "teamSName": "CD",
+                      "imageId": 172363
+                    },
+                    "team2": {
+                      "teamId": 186,
+                      "teamName": "Auckland",
+                      "teamSName": "AKL",
+                      "imageId": 172246
+                    },
+                    "venueInfo": {
+                      "id": 44,
+                      "ground": "McLean Park",
+                      "city": "Napier",
+                      "timezone": "+13:00",
+                      "latitude": "-39.50178",
+                      "longitude": "176.913015"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 51553,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "15th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677360600000",
+                    "endDate": "1677645000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 105,
+                      "teamName": "Otago",
+                      "teamSName": "OTG",
+                      "imageId": 172197
+                    },
+                    "team2": {
+                      "teamId": 314,
+                      "teamName": "Wellington",
+                      "teamSName": "WEL",
+                      "imageId": 172364
+                    },
+                    "venueInfo": {
+                      "id": 116,
+                      "ground": "University Oval",
+                      "city": "Dunedin",
+                      "timezone": "+13:00",
+                      "latitude": "-45.874401",
+                      "longitude": "170.505005"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 51558,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "16th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677965400000",
+                    "endDate": "1678249800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 186,
+                      "teamName": "Auckland",
+                      "teamSName": "AKL",
+                      "imageId": 172246
+                    },
+                    "team2": {
+                      "teamId": 314,
+                      "teamName": "Wellington",
+                      "teamSName": "WEL",
+                      "imageId": 172364
+                    },
+                    "venueInfo": {
+                      "id": 421,
+                      "ground": "Colin Maiden Park",
+                      "city": "Auckland",
+                      "timezone": "+13:00",
+                      "latitude": "-36.8800411",
+                      "longitude": "174.8485386"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 51565,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "17th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677965400000",
+                    "endDate": "1678249800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 294,
+                      "teamName": "Northern Knights",
+                      "teamSName": "NK",
+                      "imageId": 172343
+                    },
+                    "team2": {
+                      "teamId": 313,
+                      "teamName": "Central Districts",
+                      "teamSName": "CD",
+                      "imageId": 172363
+                    },
+                    "venueInfo": {
+                      "id": 393,
+                      "ground": "Bay Oval",
+                      "city": "Mount Maunganui",
+                      "timezone": "+13:00",
+                      "latitude": "-37.670300",
+                      "longitude": "176.212006"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 51567,
+                    "seriesId": 4562,
+                    "seriesName": "Plunket Shield 2022-23",
+                    "matchDesc": "18th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677965400000",
+                    "endDate": "1678249800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 105,
+                      "teamName": "Otago",
+                      "teamSName": "OTG",
+                      "imageId": 172197
+                    },
+                    "team2": {
+                      "teamId": 312,
+                      "teamName": "Canterbury",
+                      "teamSName": "CNTBRY",
+                      "imageId": 172362
+                    },
+                    "venueInfo": {
+                      "id": 116,
+                      "ground": "University Oval",
+                      "city": "Dunedin",
+                      "timezone": "+13:00",
+                      "latitude": "-45.874401",
+                      "longitude": "170.505005"
+                    },
+                    "seriesStartDt": "1666051200000",
+                    "seriesEndDt": "1679788800000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5483,
+              "seriesName": "England Lions tour of Sri Lanka, 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 62795,
+                    "seriesId": 5483,
+                    "seriesName": "England Lions tour of Sri Lanka, 2023",
+                    "matchDesc": "3rd unofficial ODI",
+                    "matchFormat": "ODI",
+                    "startDate": "1676953800000",
+                    "endDate": "1676982600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 43,
+                      "teamName": "Sri Lanka A",
+                      "teamSName": "SLA",
+                      "imageId": 172150
+                    },
+                    "team2": {
+                      "teamId": 42,
+                      "teamName": "England Lions",
+                      "teamSName": "ENGA",
+                      "imageId": 172149
+                    },
+                    "venueInfo": {
+                      "id": 15,
+                      "ground": "R.Premadasa Stadium",
+                      "city": "Colombo",
+                      "timezone": "+05:30",
+                      "latitude": "6.939966",
+                      "longitude": "79.872222"
+                    },
+                    "seriesStartDt": "1675123200000",
+                    "seriesEndDt": "1677110400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4448,
+              "seriesName": "Sheffield Shield 2022-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 50111,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "22nd Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1676849400000",
+                    "endDate": "1677133800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 52,
+                      "teamName": "Victoria",
+                      "teamSName": "VIC",
+                      "imageId": 172153
+                    },
+                    "team2": {
+                      "teamId": 158,
+                      "teamName": "South Australia",
+                      "teamSName": "SAUS",
+                      "imageId": 172225
+                    },
+                    "venueInfo": {
+                      "id": 122,
+                      "ground": "Junction Oval",
+                      "city": "Melbourne",
+                      "timezone": "+11:00",
+                      "latitude": "-37.856007",
+                      "longitude": "144.980155"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 50118,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "23rd Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1676935800000",
+                    "endDate": "1677220200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 166,
+                      "teamName": "Tasmania",
+                      "teamSName": "TAS",
+                      "imageId": 172235
+                    },
+                    "team2": {
+                      "teamId": 87,
+                      "teamName": "Western Australia",
+                      "teamSName": "WA",
+                      "imageId": 172180
+                    },
+                    "venueInfo": {
+                      "id": 39,
+                      "ground": "Bellerive Oval",
+                      "city": "Hobart",
+                      "timezone": "+11:00",
+                      "latitude": "-42.877296",
+                      "longitude": "147.374013"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 50125,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "24th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1676937600000",
+                    "endDate": "1677222000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 164,
+                      "teamName": "Queensland",
+                      "teamSName": "QL",
+                      "imageId": 172233
+                    },
+                    "team2": {
+                      "teamId": 104,
+                      "teamName": "New South Wales",
+                      "teamSName": "NSW",
+                      "imageId": 172196
+                    },
+                    "venueInfo": {
+                      "id": 35,
+                      "ground": "The Gabba",
+                      "city": "Brisbane",
+                      "timezone": "+10:00",
+                      "latitude": "-27.485829",
+                      "longitude": "153.038055"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 50130,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "25th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677713400000",
+                    "endDate": "1677997800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 104,
+                      "teamName": "New South Wales",
+                      "teamSName": "NSW",
+                      "imageId": 172196
+                    },
+                    "team2": {
+                      "teamId": 52,
+                      "teamName": "Victoria",
+                      "teamSName": "VIC",
+                      "imageId": 172153
+                    },
+                    "venueInfo": {
+                      "id": 34,
+                      "ground": "Sydney Cricket Ground",
+                      "city": "Sydney",
+                      "timezone": "+11:00",
+                      "latitude": "-33.868820",
+                      "longitude": "151.209296"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 50137,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "26th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677715200000",
+                    "endDate": "1677999600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 164,
+                      "teamName": "Queensland",
+                      "teamSName": "QL",
+                      "imageId": 172233
+                    },
+                    "team2": {
+                      "teamId": 158,
+                      "teamName": "South Australia",
+                      "teamSName": "SAUS",
+                      "imageId": 172225
+                    },
+                    "venueInfo": {
+                      "id": 35,
+                      "ground": "The Gabba",
+                      "city": "Brisbane",
+                      "timezone": "+10:00",
+                      "latitude": "-27.485829",
+                      "longitude": "153.038055"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 50144,
+                    "seriesId": 4448,
+                    "seriesName": "Sheffield Shield 2022-23",
+                    "matchDesc": "27th Match",
+                    "matchFormat": "TEST",
+                    "startDate": "1677724200000",
+                    "endDate": "1678008600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 87,
+                      "teamName": "Western Australia",
+                      "teamSName": "WA",
+                      "imageId": 172180
+                    },
+                    "team2": {
+                      "teamId": 166,
+                      "teamName": "Tasmania",
+                      "teamSName": "TAS",
+                      "imageId": 172235
+                    },
+                    "venueInfo": {
+                      "id": 38,
+                      "ground": "W.A.C.A. Ground",
+                      "city": "Perth",
+                      "timezone": "+08:00",
+                      "latitude": "-31.959806",
+                      "longitude": "115.879585"
+                    },
+                    "seriesStartDt": "1664755200000",
+                    "seriesEndDt": "1680048000000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4450,
+              "seriesName": "Australia Domestic One-Day Cup 2022-23",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 49964,
+                    "seriesId": 4450,
+                    "seriesName": "Australia Domestic One-Day Cup 2022-23",
+                    "matchDesc": "19th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677367800000",
+                    "endDate": "1677396600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 158,
+                      "teamName": "South Australia",
+                      "teamSName": "SAUS",
+                      "imageId": 172225
+                    },
+                    "team2": {
+                      "teamId": 52,
+                      "teamName": "Victoria",
+                      "teamSName": "VIC",
+                      "imageId": 172153
+                    },
+                    "venueInfo": {
+                      "id": 40,
+                      "ground": "Adelaide Oval",
+                      "city": "Adelaide",
+                      "timezone": "+10:30",
+                      "latitude": "-34.915516",
+                      "longitude": "138.596115"
+                    },
+                    "seriesStartDt": "1663891200000",
+                    "seriesEndDt": "1678406400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 49971,
+                    "seriesId": 4450,
+                    "seriesName": "Australia Domestic One-Day Cup 2022-23",
+                    "matchDesc": "20th Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677369600000",
+                    "endDate": "1677398400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 166,
+                      "teamName": "Tasmania",
+                      "teamSName": "TAS",
+                      "imageId": 172235
+                    },
+                    "team2": {
+                      "teamId": 87,
+                      "teamName": "Western Australia",
+                      "teamSName": "WA",
+                      "imageId": 172180
+                    },
+                    "venueInfo": {
+                      "id": 39,
+                      "ground": "Bellerive Oval",
+                      "city": "Hobart",
+                      "timezone": "+11:00",
+                      "latitude": "-42.877296",
+                      "longitude": "147.374013"
+                    },
+                    "seriesStartDt": "1663891200000",
+                    "seriesEndDt": "1678406400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 49978,
+                    "seriesId": 4450,
+                    "seriesName": "Australia Domestic One-Day Cup 2022-23",
+                    "matchDesc": "21st Match",
+                    "matchFormat": "ODI",
+                    "startDate": "1677380700000",
+                    "endDate": "1677409500000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 164,
+                      "teamName": "Queensland",
+                      "teamSName": "QL",
+                      "imageId": 172233
+                    },
+                    "team2": {
+                      "teamId": 104,
+                      "teamName": "New South Wales",
+                      "teamSName": "NSW",
+                      "imageId": 172196
+                    },
+                    "venueInfo": {
+                      "id": 35,
+                      "ground": "The Gabba",
+                      "city": "Brisbane",
+                      "timezone": "+10:00",
+                      "latitude": "-27.485829",
+                      "longitude": "153.038055"
+                    },
+                    "seriesStartDt": "1663891200000",
+                    "seriesEndDt": "1678406400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "matchType": "Women",
+        "seriesMatches": [
+          {
+            "seriesAdWrapper": {
+              "seriesId": 4840,
+              "seriesName": "ICC Womens T20 World Cup 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 56381,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "16th Match, Group B",
+                    "matchFormat": "T20",
+                    "startDate": "1676811600000",
+                    "endDate": "1676824200000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 259,
+                      "teamName": "Pakistan Women",
+                      "teamSName": "PAKW",
+                      "imageId": 172312
+                    },
+                    "team2": {
+                      "teamId": 257,
+                      "teamName": "West Indies Women",
+                      "teamSName": "WIW",
+                      "imageId": 172310
+                    },
+                    "venueInfo": {
+                      "id": 207,
+                      "ground": "Boland Park",
+                      "city": "Paarl",
+                      "timezone": "+02:00",
+                      "latitude": "-33.730900",
+                      "longitude": "18.970760"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56388,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "17th Match, Group A",
+                    "matchFormat": "T20",
+                    "startDate": "1676826000000",
+                    "endDate": "1676838600000",
+                    "state": "Preview",
+                    "team1": {
+                      "teamId": 98,
+                      "teamName": "New Zealand Women",
+                      "teamSName": "NZW",
+                      "imageId": 172190
+                    },
+                    "team2": {
+                      "teamId": 258,
+                      "teamName": "Sri Lanka Women",
+                      "teamSName": "SLW",
+                      "imageId": 172311
+                    },
+                    "venueInfo": {
+                      "id": 207,
+                      "ground": "Boland Park",
+                      "city": "Paarl",
+                      "timezone": "+02:00",
+                      "latitude": "-33.730900",
+                      "longitude": "18.970760"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Preview",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56395,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "18th Match, Group B",
+                    "matchFormat": "T20",
+                    "startDate": "1676898000000",
+                    "endDate": "1676910600000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 97,
+                      "teamName": "India Women",
+                      "teamSName": "INDW",
+                      "imageId": 172189
+                    },
+                    "team2": {
+                      "teamId": 189,
+                      "teamName": "Ireland Women",
+                      "teamSName": "IREW",
+                      "imageId": 172249
+                    },
+                    "venueInfo": {
+                      "id": 73,
+                      "ground": "St George's Park",
+                      "city": "Gqeberha",
+                      "timezone": "+02:00",
+                      "latitude": "-33.966545",
+                      "longitude": "25.610332"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56397,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "19th Match, Group B",
+                    "matchFormat": "T20",
+                    "startDate": "1676984400000",
+                    "endDate": "1676997000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 99,
+                      "teamName": "England Women",
+                      "teamSName": "ENGW",
+                      "imageId": 172191
+                    },
+                    "team2": {
+                      "teamId": 259,
+                      "teamName": "Pakistan Women",
+                      "teamSName": "PAKW",
+                      "imageId": 172312
+                    },
+                    "venueInfo": {
+                      "id": 52,
+                      "ground": "Newlands",
+                      "city": "Cape Town",
+                      "timezone": "+02:00",
+                      "latitude": "-33.979629",
+                      "longitude": "18.459466"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56402,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "20th Match, Group A",
+                    "matchFormat": "T20",
+                    "startDate": "1676998800000",
+                    "endDate": "1677011400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 260,
+                      "teamName": "South Africa Women",
+                      "teamSName": "RSAW",
+                      "imageId": 172313
+                    },
+                    "team2": {
+                      "teamId": 329,
+                      "teamName": "Bangladesh Women",
+                      "teamSName": "BANW",
+                      "imageId": 172377
+                    },
+                    "venueInfo": {
+                      "id": 52,
+                      "ground": "Newlands",
+                      "city": "Cape Town",
+                      "timezone": "+02:00",
+                      "latitude": "-33.979629",
+                      "longitude": "18.459466"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56409,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "Semi-Final 1 (A1 v B2)",
+                    "matchFormat": "T20",
+                    "startDate": "1677157200000",
+                    "endDate": "1677169800000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 100,
+                      "teamName": "Australia Women",
+                      "teamSName": "AUSW",
+                      "imageId": 172192
+                    },
+                    "team2": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "venueInfo": {
+                      "id": 52,
+                      "ground": "Newlands",
+                      "city": "Cape Town",
+                      "timezone": "+02:00",
+                      "latitude": "-33.979629",
+                      "longitude": "18.459466"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56411,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "Semi-Final 2 (B1 v A2)",
+                    "matchFormat": "T20",
+                    "startDate": "1677243600000",
+                    "endDate": "1677256200000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "team2": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "venueInfo": {
+                      "id": 52,
+                      "ground": "Newlands",
+                      "city": "Cape Town",
+                      "timezone": "+02:00",
+                      "latitude": "-33.979629",
+                      "longitude": "18.459466"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 56418,
+                    "seriesId": 4840,
+                    "seriesName": "ICC Womens T20 World Cup 2023",
+                    "matchDesc": "Final",
+                    "matchFormat": "T20",
+                    "startDate": "1677416400000",
+                    "endDate": "1677429000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "team2": {
+                      "teamId": 106,
+                      "teamName": "TBC",
+                      "teamSName": "TBC",
+                      "imageId": 172198
+                    },
+                    "venueInfo": {
+                      "id": 52,
+                      "ground": "Newlands",
+                      "city": "Cape Town",
+                      "timezone": "+02:00",
+                      "latitude": "-33.979629",
+                      "longitude": "18.459466"
+                    },
+                    "seriesStartDt": "1675987200000",
+                    "seriesEndDt": "1677542400000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match",
+                    "isFantasyEnabled": true
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "seriesAdWrapper": {
+              "seriesId": 5938,
+              "seriesName": "Womens Premier League 2023",
+              "matches": [
+                {
+                  "matchInfo": {
+                    "matchId": 65809,
+                    "seriesId": 5938,
+                    "seriesName": "Womens Premier League 2023",
+                    "matchDesc": "1st Match",
+                    "matchFormat": "T20",
+                    "startDate": "1677938400000",
+                    "endDate": "1677951000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 1479,
+                      "teamName": "Gujarat Giants",
+                      "teamSName": "GGT",
+                      "imageId": 254722
+                    },
+                    "team2": {
+                      "teamId": 1468,
+                      "teamName": "Mumbai Indians Women",
+                      "teamSName": "MIW",
+                      "imageId": 254724
+                    },
+                    "venueInfo": {
+                      "id": 132,
+                      "ground": "Dr DY Patil Sports Academy",
+                      "city": "Mumbai",
+                      "timezone": "+05:30",
+                      "latitude": "19.042188",
+                      "longitude": "73.02671"
+                    },
+                    "seriesStartDt": "1677888000000",
+                    "seriesEndDt": "1679961600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65816,
+                    "seriesId": 5938,
+                    "seriesName": "Womens Premier League 2023",
+                    "matchDesc": "2nd Match",
+                    "matchFormat": "T20",
+                    "startDate": "1678010400000",
+                    "endDate": "1678023000000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 1465,
+                      "teamName": "Royal Challengers Bangalore Women",
+                      "teamSName": "RCBW",
+                      "imageId": 254725
+                    },
+                    "team2": {
+                      "teamId": 1461,
+                      "teamName": "Delhi Capitals Women",
+                      "teamSName": "DCW",
+                      "imageId": 254726
+                    },
+                    "venueInfo": {
+                      "id": 10,
+                      "ground": "Brabourne Stadium",
+                      "city": "Mumbai",
+                      "timezone": "+05:30",
+                      "latitude": "18.932337",
+                      "longitude": "72.824796"
+                    },
+                    "seriesStartDt": "1677888000000",
+                    "seriesEndDt": "1679961600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                },
+                {
+                  "matchInfo": {
+                    "matchId": 65819,
+                    "seriesId": 5938,
+                    "seriesName": "Womens Premier League 2023",
+                    "matchDesc": "3rd Match",
+                    "matchFormat": "T20",
+                    "startDate": "1678024800000",
+                    "endDate": "1678037400000",
+                    "state": "Upcoming",
+                    "team1": {
+                      "teamId": 1472,
+                      "teamName": "UP Warriorz",
+                      "teamSName": "UPW",
+                      "imageId": 254738
+                    },
+                    "team2": {
+                      "teamId": 1479,
+                      "teamName": "Gujarat Giants",
+                      "teamSName": "GGT",
+                      "imageId": 254722
+                    },
+                    "venueInfo": {
+                      "id": 132,
+                      "ground": "Dr DY Patil Sports Academy",
+                      "city": "Mumbai",
+                      "timezone": "+05:30",
+                      "latitude": "19.042188",
+                      "longitude": "73.02671"
+                    },
+                    "seriesStartDt": "1677888000000",
+                    "seriesEndDt": "1679961600000",
+                    "isTimeAnnounced": true,
+                    "stateTitle": "Upcoming Match"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "filters": {
+      "matchType": [
+        "International",
+        "League",
+        "Domestic",
+        "Women"
+      ]
+    },
+    "appIndex": {
+      "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+      "webURL": "www.cricbuzz.com/live-cricket-scores/"
+    },
+    "responseLastUpdated": "1676784574"
+  }

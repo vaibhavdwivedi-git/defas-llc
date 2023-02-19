@@ -1,0 +1,41 @@
+.container{
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    background-color: #312F28;
+    margin:8px;
+    border-radius: 4px;
+    gap:8px;
+    align-items: center;
+    padding: 4px 12px;
+}
+
+.player{
+    width: min(32px,2.4vw);
+    height:min(36px,2.8vw);
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    gap:4px;
+    padding: 4px;
+}
+
+.role{
+    font-size: min(12px,1.2vw);
+    font-weight: 900;
+    color: #606060;
+}
+
+.name{
+    font-size: min(16px,1.5vw);
+    font-weight: 600;
+}
+
+
+.select{
+    margin-left: auto;
+    width: min(24px,2.4vw);
+    height:min(24px,2.8vw);
+}
