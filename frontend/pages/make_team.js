@@ -27,7 +27,7 @@ export default function Home({ data }) {
     const user = "xyz";
     let contestant = { contestant_id: user, team: fantasy };
     match["contestants"].push(contestant);
-    await fetch("http://localhost:3000/api/contest", {
+    await fetch("https://defas-llc.vercel.app/api/contest", {
       method: "POST",
       body: JSON.stringify(match),
     });
@@ -101,11 +101,11 @@ export async function getServerSideProps(context) {
 
   // Fetch data from external API
   const squad1 = await fetch(
-    `http://localhost:3000/api/get_team/?match_id=${match.id}&team_id=${match.team1Id}`
+    `https://defas-llc.vercel.app/api/get_team/?match_id=${match.id}&team_id=${match.team1Id}`
   );
 
   const squad2 = await fetch(
-    `http://localhost:3000/api/get_team/?match_id=${match.id}&team_id=${match.team2Id}`
+    `https://defas-llc.vercel.app/api/get_team/?match_id=${match.id}&team_id=${match.team2Id}`
   );
 
   match["squad1"] = await squad1.json();

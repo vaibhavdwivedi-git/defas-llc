@@ -40,7 +40,7 @@ export default function Home({ data }) {
 
 export async function getServerSideProps() {
   // Fetch data from external API
-  const res = await fetch("http://localhost:3000/api/contest");
+  const res = await fetch("https://defas-llc.vercel.app/api/contest");
   const data = await res.json();
   //Pass data to the page via props
   return { props: { data } };
