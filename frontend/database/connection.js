@@ -1,5 +1,5 @@
 const MONGO_URI =
-  "mongodb+srv://vestrap:vestrap123@contest.z2enbnk.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://vestrap:vestrap123@contest.t1l5in5.mongodb.net/test";
 
 import mongoose from "mongoose";
 
